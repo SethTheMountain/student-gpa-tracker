@@ -3,6 +3,7 @@
 # Description: This app accepts student names and GPAs, then determines if they qualify 
 # for the Dean's List (GPA >= 3.5) or Honor Roll (GPA >= 3.25). The program continues 
 # until 'ZZZ' is entered as a last name.
+# Github Link: https://github.com/SethTheMountain/student-gpa-tracker
 
 while True:
     # Get student's last name
